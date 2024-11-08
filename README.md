@@ -25,7 +25,7 @@ A simple API for managing tasks with in-memory storage using Node.js and Express
 - **URL:** `POST /tasks` http://localhost:3000/tasks
 - **Body:**
 
-# Json 
+  ```json
   {
     "title": "Task title",
     "description": "Task description"
