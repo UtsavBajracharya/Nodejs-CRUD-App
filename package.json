@@ -1,7 +1,7 @@
 {
   "name": "nodejs-task-manager-app",
   "version": "1.0.0",
-  "description": "CRUD operation using node js and express",
+  "description": "CRUD operation using nodejs and express and testing endpoint using Postman",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
