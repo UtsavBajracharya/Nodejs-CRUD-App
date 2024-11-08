@@ -41,8 +41,10 @@ A simple API for managing tasks with in-memory storage using Node.js and Express
 - **URL:** `DELETE /tasks/:id`  http://localhost:3000/tasks/unique-task-id-1
 
 ## Summary of API Endpoints in Postman
-Method	Endpoint	  Purpose
-POST	  /tasks	    Add a new task
-GET	    /tasks	    Retrieve all tasks
-PUT	    /tasks/:id	Update a specific task by ID
-DELETE	/tasks/:id	Delete a specific task by ID
+
+| Method | Endpoint     | Purpose                         |
+|--------|--------------|---------------------------------|
+| POST   | /tasks       | Add a new task                 |
+| GET    | /tasks       | Retrieve all tasks             |
+| PUT    | /tasks/:id   | Update a specific task by ID   |
+| DELETE | /tasks/:id   | Delete a specific task by ID   |
